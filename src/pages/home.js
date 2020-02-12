@@ -25,8 +25,13 @@ function Home(props) {
     const content = 
     <div className={classes.content}>
         <ShoppingIcon style={{ fontSize: 100 }}  />
+<<<<<<< HEAD
         <Typography variant="h2">Shopping List App</Typography>
         <Typography variant="body1">Create your shopping list and store all of them in one place.</Typography>
+=======
+        <Typography variant="h2">New title</Typography>
+        <Typography variant="body1">Create your shopping list and store them in one place.</Typography>
+>>>>>>> 54544744d542ed2254bd1454676e2e849b2cef4d
     </div>
 
     return (
